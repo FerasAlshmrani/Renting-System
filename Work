@@ -1,0 +1,19 @@
+we all worked with relations , figma , security , draw class diagram
+
+mainly worked in :
+
+renter(buyProduct function ) and
+
+// note there are logic in these CREATE,UPDATE,REMOVE
+productService - ProductController - ProductRepository (getProduct,addProduct,updateProduct,removeProduct,
+expandDurationForProduct,getProductsByLessor,getProductsByAvaliable,
+getProductsByAvailableAndPric,getProductsByAvaliableAndPriceDESCe,getProductsByName) method
+
+//Note in order model i didnt write any vaildation because they are coming from other class (buyProduct)
+OrderService - OrderController - OrderRepository( getOrder,addOrder,isReturnedProduct,OrderList) 
+
+//Note add Comment Coming from isReturendProduct function
+commentService - CommentController - CommentRepository(updateComment - deleteComment)
+
+also i have worked in Scheduling in our server
+
