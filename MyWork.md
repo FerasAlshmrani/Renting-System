@@ -52,13 +52,9 @@ EndPoints:
 - deleteComment()
 ----
 
-## also i have worked in Scheduling in our server
+## also i have worked Scheduling in our server
 
 Schedule methods :
-
-
-
-we all worked with relations , figma , security , draw class diagram
 
 - checkOrderEndDate()
 - checkProductEndDate()
