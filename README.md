@@ -1,6 +1,8 @@
 # Renting-System
 
+Rent Express is a platform that allows renters to have their own warehouse to store and manage any type of product and have it ready for rent.
 
+This will make it easier for the renter to obtain and return the product at the specified time
 
 
 
