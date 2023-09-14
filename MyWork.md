@@ -3,7 +3,15 @@
 ### I worked on redesign structure  class diagram 
 --------
 ## mainly worked in :
+--------
+models:
 
+--------
+
+| MyOrder model
+| Comment model
+| Product model
+-----
 | RenterService
 
 - buyProduct()
