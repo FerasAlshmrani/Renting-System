@@ -3,14 +3,13 @@
 ### I worked on redesign structure  class diagram 
 --------
 ## mainly worked in :
---------
-models:
 
---------
+models:
 
 | MyOrder model
 | Comment model
 | Product model
+
 -----
 | RenterService
 
